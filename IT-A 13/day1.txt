@@ -1,0 +1,1 @@
+we learnt about the algorithms and flowchart where we had a statement with which we wrote the algorithm which starts with step1:start and the ending step is stop then we made its flowchart with the first step written in oval then the input output steps in parallelogram then the middle steps in rectangle and the decision or condition in diamond 
