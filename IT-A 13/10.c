@@ -1,7 +1,7 @@
 #include<stdio.h>
 #define PI 3.14159
 #define SQUARE(x) ((x)*(x))
-#define DEBUG
+#define DEBUG //comment this before running code to see the output
 #ifdef DEBUG
 #define LOG(x)printf("DEBUG: %s\n" , x);
 	   
